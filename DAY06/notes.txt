@@ -9,6 +9,8 @@ git best practices
 
 --> Give proper commit messages.
 
+kkdevops
+kkdsk
 
    "JIRA_ID: change message"
     165: updated pom.xml
